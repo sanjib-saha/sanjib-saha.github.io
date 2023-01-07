@@ -24,7 +24,8 @@ export default {
         {
           hid: 'og:image',
           name: 'og:image',
-          content: "https://demo.sirv.com/chair.jpg"
+          // content: "https://demo.sirv.com/chair.jpg"
+          content: "https://orkoweb.services/storage/images/profile/Orko-Pro_2022_12_21_20_59_33-Dec-21st-22-8-59-43.jpg"
         }
       ]
     }
